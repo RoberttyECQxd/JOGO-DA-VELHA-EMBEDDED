@@ -7,6 +7,7 @@ O projeto consiste em tornar o famoso "Jogo da Velha" em um sistema embarcado. A
 Materiais utilizados no projeto:
 
 - 3 protoboards
-- * jumpers
+- Jumpers
+- Resistores de 220 (para os leds) e 1k (para os botes) 
 - 9 Leds RGB
 - 11 botões
